@@ -20,7 +20,7 @@
 const user = {
   username: 'Matt',
   email: 'nahgg@gmail.com',
-  getUsername: function getUsername(username) {
+  getUsername: function () {
     return this.username
   }
 
